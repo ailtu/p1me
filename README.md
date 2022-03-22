@@ -1,9 +1,9 @@
 # O que é este repositório? What is this repository?
 
 
-Repositório criado apenas para guardar códigos sobre condicionais em Java
+Apenas para guardar arquivos de aprendizados em aulas de p1
 
-Repository created just to store code developed for conditionals code in Java
+Just to save learning files in p1 lessons
 
 
 # Como uso? How Works?
