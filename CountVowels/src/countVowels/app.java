@@ -1,8 +1,8 @@
 package countVowels;
 import java.util.Scanner;
+
 public class app {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 	Scanner in = new Scanner(System.in);
 
@@ -23,7 +23,6 @@ public class app {
 	    
 	    if (vog == 'a' || vog == 'e' || vog == 'i' || vog == 'o' || vog == 'u') {
 	    cVogais++;
-
 	}    
 	}
 	    System.out.println("A frase possui " + cVogais + " vogais.");
